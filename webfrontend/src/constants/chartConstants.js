@@ -1,0 +1,3 @@
+export const CHARTS_REQUEST = "CHARTS_REQUEST";
+export const CHARTS_SUCCESS = "CHARTS_SUCCESS";
+export const CHARTS_FAIL = "CHARTS_FAIL";
